@@ -26,11 +26,11 @@ Shopnest ek **MERN Stack E-Commerce Store** hai — ek full-stack online shoppin
 
 ```
 Shopnest/
-├── backend/          # Express API, models, routes, controllers
-├── frontend/          # React client app
-├── example-env.env   # Sample environment variables
-├── package.json      # Root scripts (runs backend + frontend together)
-└── thumb.png         # Project thumbnail
+   backend/          # Express API, models, routes, controllers
+   frontend/          # React client app
+   example-env.env   # Sample environment variables
+   package.json      # Root scripts (runs backend + frontend together)
+   thumb.png         # Project thumbnail
 ```
 
 ## ⚙️ Getting Started
@@ -77,7 +77,7 @@ npm run backend    # backend server (nodemon)
 npm run frontend   # frontend dev server (vite)
 ```
 
-## ✨ Features
+##  Features
 
 - User authentication (JWT based)
 - Product listing & details
@@ -85,10 +85,10 @@ npm run frontend   # frontend dev server (vite)
 - Image uploads (multer)
 - REST API backend with MongoDB
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests welcome hain. Kisi bhi major change ke liye pehle issue open karo taaki discuss ho sake.
 
-## 📄 License
+##  License
 
 ISC
